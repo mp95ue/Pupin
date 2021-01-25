@@ -1,0 +1,28 @@
+nav, article { display: inline-block; }
+
+article { float:right; width: 50%; }
+
+ nav {
+float: left
+width: 40%;
+
+}
+h1 {
+    font-size: 2.2em;
+    text-align: center;
+    
+}
+ul {
+    list-style: none;
+}
+ul li {
+    margin: 10px;
+    padding: 10px;
+}
+table,tr,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    margin: 1rem;
+    padding: 1rem;
+}
+
